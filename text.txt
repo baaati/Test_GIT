@@ -2,4 +2,6 @@
 
 2. This text has been put here after data has been cloned.
 
-3. THis text has been changed localy on computer.
+
+3. Great we have it all fixed. now we have one and only pont 3. Lets update this on github.
+
