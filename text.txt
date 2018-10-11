@@ -1,12 +1,9 @@
-1. This content comes from original project in github and master branch.
+This content comes from original project in github and master branch.
 
-2. This text has been put here after data has been cloned.
-
-treść z guthuba. tym razem bez numerka
-
-3. Great we have it all fixed. now we have one and only pont 3. Lets update this on github.
-
-
-treść lokalnie dodana
+This text has been put here after data has been cloned.
 
 treść z guthuba. tym razem bez numerka
+
+Great we have it all fixed. now we have one and only pont 3. Lets update this on github.
+
+Programista dodaje linijkę kodu na końcu w githubie.
