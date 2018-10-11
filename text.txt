@@ -5,3 +5,4 @@
 
 3. Great we have it all fixed. now we have one and only pont 3. Lets update this on github.
 
+treść lokalnie dodana
